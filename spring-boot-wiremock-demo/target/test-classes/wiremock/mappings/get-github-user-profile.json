@@ -1,0 +1,22 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/users/gurunadh-sdet"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "jsonBody": {
+          "login": "gurunadh-sdet",
+          "name": "gurunadh_mitikela",
+          "bio": "working as an SDET",
+          "public_repos": 50
+        }
+      }
+    }
+  ]
+}
